@@ -1,0 +1,100 @@
+{"rank": 1, "name": "牧濑红莉栖", "en_name": "Makise Kurisu", "description": "游戏《命运石之门》中的女主角，维克多·孔多利亚大学脑科学研究所的研究员。", "enneagram": "5号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 2, "name": "三笠·阿克曼", "en_name": "Mikasa Ackerman", "description": "日本漫画《进击的巨人》中的女主角，艾伦·耶格尔的青梅竹马，在儿时被艾伦救过一条命。无家可归时被艾伦父子带回了家，后二人经常一起活动，互相视对方为最重要的人。", "enneagram": "6号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 3, "name": "雷姆", "en_name": "Rem", "description": "《Re：从零开始的异世界生活》中的角色，在罗兹沃尔的宅邸中一手担当全部杂务的双胞胎女仆中的妹妹。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 4, "name": "战场原黑仪", "en_name": "Senjougahara Hitagi", "description": "《物语系列》中的主要角色，遭遇了螃蟹而失去了重量的少女。外表是体弱多病的文静优等生形象，被看作是深闺大小姐；但实际上是个可怕的毒舌家。男主人公阿良良木历的女朋友。", "enneagram": "6号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 5, "name": "惠惠", "en_name": "Megumin", "description": "《为美好的世界献上祝福！》中的角色，生于穷困的家庭，是个因吃不饱饭而缺乏营养的平胸萝莉，甚至要靠抢悠悠的便当来解决吃饭问题，为了使用爆裂魔法而希望成为大魔法师。", "enneagram": "4号", "mbti": "INFP", "disc": "S型"}
+{"rank": 6, "name": "樱岛麻衣", "en_name": "Sakurajima Mai", "description": "轻小说《青春猪头少年系列》的女主角，6岁时以童星身份出道而活跃，转型成为女演员后广受欢迎。不过在她即将初中毕业时，突然宣布停止演艺活动，后就读于神奈川县立峰原高中。", "enneagram": "6号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 7, "name": "零二", "en_name": "Zero Two", "description": "日本动画片《DARLING in the FRANXX》中的女主角，性格活泼开朗，思想开放，充满活力。", "enneagram": "7号", "mbti": "ESTP", "disc": "I型"}
+{"rank": 8, "name": "忍野忍", "en_name": "Shinobu Oshino", "description": "轻小说《物语系列》中的角色，别名小忍、刃下心、姬丝秀忒，是有一头会让人着迷的金色秀发，身穿古典洋装，美丽到令人惊艳的传说中的吸血鬼。", "enneagram": "8号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 9, "name": "薇尔莉特·伊芙加登", "en_name": "Violet Evergarden", "description": "《紫罗兰永恒花园》中的主角，隶属于C·H邮政公司的“自动手记人偶”少女，显著特征是有一头金黄耀眼的秀发和深邃碧蓝的双眼，佩戴着一枚绿宝石胸针，且拥有极强的学习能力和超出常人的战斗力。", "enneagram": "6号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 10, "name": "阿尔托莉雅·潘德拉贡", "en_name": "Altria Pendragon", "description": "电视动画《Fate/Zero》中的角色，生前为古不列颠传说中的亚瑟王，在第四、第五次圣杯战争中一直以“Saber”职阶被召唤到现世参加圣杯战争。", "enneagram": "1号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 11, "name": "我妻由乃", "en_name": "Gasai Yuno", "description": "日本漫画《未来日记》中的女主角。粉红长发梳成两股辫子在脑后，是成绩优秀，长相端丽的美少女，平时对同学的性格都很好，喜欢雪辉到了疯狂的地步。", "enneagram": "2号", "mbti": "INFJ", "disc": "I型"}
+{"rank": 12, "name": "结城明日奈", "en_name": "Asuna Yuuki", "description": "《刀剑神域》中的女主角。拥有“闪光”异名，公会“血盟骑士团”的副团长。使用细剑的技能高超，并且以美丽的外貌而闻名。", "enneagram": "2号", "mbti": "ENFJ", "disc": "I型"}
+{"rank": 13, "name": "赫萝", "en_name": "Holo", "description": "《狼与香辛料》中的女主角，自称是掌管丰收的“贤狼”，变成人类时是长着狼耳与狼尾巴的纤细少女，其本体为巨大的能吞食人的狼，拥有人类难以匹敌的智慧。", "enneagram": "6号", "mbti": "ENTP", "disc": "I型"}
+{"rank": 14, "name": "C.C.", "en_name": "C.C.", "description": "日本动画《CODE GEASS 反叛的鲁路修》中的第一女主角，在鲁路修面临生死关头时，与他签订契约给予他Geass的力量的神秘少女。", "enneagram": "9号", "mbti": "INTP", "disc": "S型"}
+{"rank": 15, "name": "惣流·明日香·兰格雷", "en_name": "Asuka Langley Soryu", "description": "动画《新世纪福音战士》中的女性角色，EVA二号机的专属驾驶员和第二适格者。她是有3/4的德国血统，1/4的日本血统的混血儿。", "enneagram": "3号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 16, "name": "宫园薰", "en_name": "Miyazono Kaori", "description": "日本漫画《四月是你的谎言》女主角，主人公有马公生从小的仰慕者和小提琴伴奏，个性十足的小提琴手。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 17, "name": "远坂凛", "en_name": "Tohsaka Rin", "description": "《Fate/stay night》中的角色，魔道名门远坂家的第六代当家家主，父亲在第四次圣杯战争中死去，由其父亲的弟子言峰绮礼作为凛的监护人。", "enneagram": "3号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 18, "name": "爱蜜莉雅", "en_name": "Emilia", "description": "《Re：从零开始的异世界生活》中的女主角，有着银色长发和绀紫瞳的半精灵少女，搭档为大精灵帕克，露格尼卡王国第42代王位候选人。", "enneagram": "1号", "mbti": "INFJ", "disc": "C型"}
+{"rank": 19, "name": "晓美焰", "en_name": "Akemi Homura", "description": "《魔法少女小圆》中的角色，转学首日就对鹿目圆和学校环境异常熟悉，成绩出众、运动万能，并且在同学口中有“美人”之称", "enneagram": "5号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 20, "name": "雪之下雪乃", "en_name": "Yukinoshita Yukino", "description": "《我的青春恋爱物语果然有问题。》的女主角。雪之下阳乃的妹妹，侍奉部部长，完美主义者，相貌与智慧皆具备的神秘美少女，学习及其他方面都有优秀的成绩，因此被同级生嫉妒从小被孤立，也因自己的性格导致没什么朋友", "enneagram": "1号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 21, "name": "四宫辉夜", "en_name": "Shinomiya Kaguya", "description": "漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》中的角色。四宫财团的长女，就读于秀知院学园。辉夜在艺术、音乐、武艺等领域都有着出色的成绩，而辉夜喜欢的对象则是学生会会长白银御行。", "enneagram": "5号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 22, "name": "中野三玖", "en_name": "Nakano Miku", "description": "《五等分的新娘》中的角色，中野五姐妹的三女。表情很少，常常看不明白她心里面在想什么。", "enneagram": "4号", "mbti": "INFP", "disc": "S型"}
+{"rank": 23, "name": "莱薇", "en_name": "Revy（Rebecca）", "description": "《黑礁》中的女主角，美籍华人，自幼在美国纽约的贫民区长大，热衷暴力和枪械。", "enneagram": "8号", "mbti": "ESTP", "disc": "D型"}
+{"rank": 24, "name": "喜多川海梦", "en_name": "Kitagawa Marin", "description": "日本漫画《更衣人偶坠入爱河》中的女主角，高中一年级学生。班上的高人气美少女，兼职读者模特。性格开朗，思想开放，始终处于圈子中心。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 25, "name": "小鸟游六花", "en_name": "Takanashi Rikka", "description": "《中二病也要谈恋爱》系列中的女主角，富樫勇太的同班同学兼女朋友。", "enneagram": "4号", "mbti": "INFP", "disc": "S型"}
+{"rank": 26, "name": "时崎狂三", "en_name": "Tokisaki Kurumi", "description": "《约会大作战》中的角色，至今为止士道所遭遇的唯一没能拯救下来的“最恶的精灵”。", "enneagram": "3号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 27, "name": "艾露莎·舒卡勒托", "en_name": "Erza Scarlet", "description": "日本漫画《妖精的尾巴》中的角色，是S级魔导士，强大而美丽，被人称为“妖精女王”。", "enneagram": "6号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 28, "name": "莉雅丝·吉蒙里", "en_name": "Rias Gremory", "description": "《恶魔高校D×D》中的第一女主角，是魔王路西法的妹妹，身份为上级恶魔吉蒙里家的继任宗主、驹王学园神秘学研究部的前任部长。", "enneagram": "2号", "mbti": "ENFJ", "disc": "I型"}
+{"rank": 29, "name": "韩吉·佐耶", "en_name": "Hange Zoe", "description": "《进击的巨人》中的角色，科学狂人，现今取得的巨人调研成果有不少都是出自她手，掌握着最先进的巨人调研成果。", "enneagram": "7号", "mbti": "ENTP", "disc": "I型"}
+{"rank": 30, "name": "御坂美琴", "en_name": "Mikoto Misaka", "description": "《魔法禁书目录》中的人物及《科学超电磁炮》的主人公，贵族女校常盘台中学二年级学生，有“常盘台的王牌”和“最强无敌的电击公主”之称。性格好胜、正义感强，有着男孩子般的爽朗性格，但却没有耐心，非常不坦率。", "enneagram": "8号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 31, "name": "藤原千花", "en_name": "Fujiwara Chika", "description": "《辉夜大小姐想让我告白～天才们的恋爱头脑战～》中的女主角，秀知院学园高中二年级生，学生会书记。性格天真烂漫，但有时却比另外两位主人公（四宫辉夜、白银御行）更有心机和常识。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 32, "name": "绫波丽", "en_name": "Ayanami Rei", "description": "《新世纪福音战士》的女主角，EVA零号机的专属驾驶员和第一适格者，真实身份是NERV使用第二使徒莉莉丝的体细胞和碇唯的DNA制作出来的克隆人，作为莉莉丝的灵魂容器而存在", "enneagram": "5号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 33, "name": "椎名真白", "en_name": "Shiina Mashiro", "description": "《樱花庄的宠物女孩》中女主角，个性温和，天然呆、有极度的依赖性。完全没有一点自理能力，连内衣裤也是空太挑出来才穿。因为出生于艺术世家，从小便开始学习画画，世界级的天才画家。", "enneagram": "9号", "mbti": "INFP", "disc": "S型"}
+{"rank": 34, "name": "妮可·罗宾", "en_name": "Nico Robin", "description": "日本动画《航海王》中的角色，草帽一伙的考古学家，年仅8岁就被悬赏千万的奥哈拉幸存者。", "enneagram": "5号", "mbti": "INTP", "disc": "C型"}
+{"rank": 35, "name": "缠流子", "en_name": "Matoi Ryuuko", "description": "日本电视动画《斩服少女》中的女主角，为寻找手持单片太剪刀另一半的弑父仇人而转学至统治整个城市的本能字学园的17岁少女。为人善良，性格热血；与满舰饰真子是好友。", "enneagram": "8号", "mbti": "ISFP", "disc": "D型"}
+{"rank": 36, "name": "凉宫春日", "en_name": "Suzumiya Haruhi", "description": "轻小说《凉宫春日系列》中女主角，好胜心极强，有着唯我独尊、旁若无人的性格。", "enneagram": "4号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 37, "name": "葛城美里", "en_name": "Katsuragi Misato", "description": "日本动画作品《新世纪福音战士》中的登场角色。是NERV本部战术作战局第一课所属，作战部长。最初登场时候军衔为一尉，后来升为三佐，是碇真嗣等适格者的直属上司。", "enneagram": "2号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 38, "name": "西宫硝子", "en_name": "Shōko Nishimiya", "description": "日本漫画《声之形》中的女主角，听力障碍的少女，因长期听觉障碍而难以发出声音，受到班上同学的孤立和欺负。", "enneagram": "9号", "mbti": "ESFJ", "disc": "S型"}
+{"rank": 39, "name": "白", "en_name": "Shiro", "description": "《NO GAME NO LIFE游戏人生》中的女主角 ，空的妹妹。拒绝上学，没有朋友，有对人恐惧症，戏废人，被欺负的孩子。", "enneagram": "5号", "mbti": "INTP", "disc": "C型"}
+{"rank": 40, "name": "泉此方", "en_name": "Izumi Konata", "description": "四格漫画《幸运☆星》中的主人公，热爱动画及游戏，是个彻头彻尾的御宅族（受到父亲严重影响），当今有名的御宅族（Otaku）代表。", "enneagram": "7号", "mbti": "ENTP", "disc": "I型"}
+{"rank": 41, "name": "灶门祢豆子", "en_name": "Kamado Nezuko", "description": "日本漫画《鬼灭之刃》中的女主角，灶门炭治郎的妹妹，因鬼舞辻无惨的血液变成了鬼。平日躲藏在炭治郎身后的箱子里，以理性抑制着作为鬼的本能与炭治郎一同战斗。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 42, "name": "立华奏", "en_name": "Tachibana Kanade", "description": "动画作品《Angel Beats!》中的角色。在死后世界的学校中担任着学生会会长。被“死后世界战线”的人称为“天使”，不过自己否认这一说法。很少有表情变化，同时也非常寡言，所以很难得知她在想什么。", "enneagram": "5号", "mbti": "INFJ", "disc": "C型"}
+{"rank": 43, "name": "娜美", "en_name": "Nami", "description": "日本漫画《航海王》中的女主角，草帽一伙航海士，草帽大船团大干部之一，人称“小贼猫”", "enneagram": "6号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 44, "name": "平泽唯", "en_name": "Hirasawa Yui", "description": "《轻音少女》中的主人公，私立樱丘女子高等学校轻音部的吉他手兼主唱，是个迷糊冒失、有点天然呆，不擅长读书与运动，拥有绝对音感的女孩。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 45, "name": "中野二乃", "en_name": "Nakano Nino", "description": "《五等分的新娘》中的女主角，中野家五胞胎的次女，在家中以过人的女子力成为五胞胎的料理负责人。", "enneagram": "6号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 46, "name": "秋山澪", "en_name": "Akiyama Mio", "description": "《轻音少女》中的角色，私立樱丘女子高等学校轻音部的贝斯手及伴唱，原打算加入文艺部，却被青梅竹马的田井中律拉进了轻音部，因觉得吉他太引人注意而选择成为贝斯手。", "enneagram": "6号", "mbti": "ISTJ", "disc": "S型"}
+{"rank": 47, "name": "枫（露西）", "en_name": "Lucy", "description": "《妖精的旋律》女主角。唯一具有生殖能力的纯种二觭人，二觭人的原始母体——“线粒体夏娃” 。", "enneagram": "4号", "mbti": "ISFP", "disc": "S型"}
+{"rank": 48, "name": "日向雏田", "en_name": "Hyūga Hinata", "description": "日本漫画《火影忍者》中的女性角色，火之国·木叶隐村的忍者，木叶名门日向一族宗家日向日足的嫡长女，是个性格有些柔弱的女孩。最后成为鸣人的妻子，并育有一子一女 。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 49, "name": "谭雅·冯·提古雷查夫", "en_name": "Tanya von Degurechaff", "description": "《幼女战记》中的主人公，有着金发碧眼与白皙肌肤的幼女，真实身份是意外转生成为幼女的精英上班族。把效率与出人头地看得比什么都重要，以幼女口齿不清的语调指挥大军，残忍无情地击坠敌军。", "enneagram": "8号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 50, "name": "神乐", "en_name": "Kagura", "description": "日本漫画《银魂》中的女主角，是宇宙最强的战斗种族“夜兔族”的一员。", "enneagram": "7号", "mbti": "ESFP", "disc": "I型"}
+{"rank": 51, "name": "赤瞳", "en_name": "Akame", "description": "《斩·赤红之瞳！》中的女主角，前帝国暗部精英杀手七人之一，现暗杀小队「Night Raid」的中流砥柱，有“王牌杀手”之称。性格稳重，正义感强，重视同伴，平时很少袒露心声，时常会表现出感性的一面。", "enneagram": "6号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 52, "name": "椎名真由理", "en_name": "Shiina Mayuri", "description": "《命运石之门》中的女主角之一，性格乐观温柔，善解人意，深受研究所成员喜爱。", "enneagram": "9号", "mbti": "ESFJ", "disc": "I型"}
+{"rank": 53, "name": "姬岛朱乃", "en_name": "Himejima Akeno", "description": "《恶魔高中D×D》中的角色，堕天使巴拉基勒和巫女姬岛朱璃之女，莉雅丝·吉蒙里的第一位恶魔眷属，职阶为国际象棋的皇后；高中时期担任驹王学园神秘学研究部副部长，学园两位大姐姐之一。", "enneagram": "2号", "mbti": "ISFJ", "disc": "I型"}
+{"rank": 54, "name": "蝴蝶忍", "en_name": "Kocho Shinobu", "description": "漫画《鬼灭之刃》中的角色，是鬼杀队中的虫柱。蝴蝶忍的父母死于恶鬼之手，因此忍从小便十分痛恨鬼。", "enneagram": "1号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 55, "name": "桐崎千棘", "en_name": "Kirisaki Chitoge", "description": "《伪恋》中女主角。从美国转学回来的美女转校生，美国黑帮“蜂巢”老大的女儿。", "enneagram": "3号", "mbti": "ESFJ", "disc": "D型"}
+{"rank": 56, "name": "水原千鹤", "en_name": "Ichinose Chizuru", "description": "动漫《租借女友》中的角色，就读于练马大学文学系。在租赁女朋友事务所“Diamond”扮演“理想的女朋友”的大学生，由雨宫天配音。", "enneagram": "3号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 57, "name": "岩仓玲音", "en_name": "Lain Iwakura", "description": "《玲音》中的角色，身处日本的14岁女孩，受父亲影响，接触，进而发现了“连线”（Wired，一个国际性计算机网络）之中隐藏的巨大秘密，和自己的神秘身世的故事。", "enneagram": "5号", "mbti": "INTP", "disc": "C型"}
+{"rank": 58, "name": "蛇喰梦子", "en_name": "Jabami Yumeko", "description": "《狂赌之渊》中的角色，黑长直加红瞳的少女，平时是个温柔美丽的淑女，但其实是为赌博而存在，为赌博而疯狂的女子。", "enneagram": "7号", "mbti": "ESTP", "disc": "I型"}
+{"rank": 59, "name": "康娜卡姆依", "en_name": "Kanna Kamui", "description": "电视动画《小林家的龙女仆》及《小林家的龙女仆S》中的角色，从异世界来到人类世界的龙族，人类形态是小学女生，最喜欢的事情是上学，在学校很受欢迎。在人间被认为是小林女儿所以人间名叫小林康娜。", "enneagram": "9号", "mbti": "INTP", "disc": "S型"}
+{"rank": 60, "name": "雾岛董香", "en_name": "Touka Kirishima", "description": "电视动画《东京食尸鬼》中的女主角，金木研的妻子。 咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员，S级食尸鬼，总是在金木研遇到危险的时候出手相助，两人日久生情后组成家庭。", "enneagram": "6号", "mbti": "ISTP", "disc": "C型"}
+{"rank": 61, "name": "拉芙塔莉雅", "en_name": "Raphtalia", "description": "《盾之勇者成名录》中角色，浣熊种的亚人，长有浣熊耳朵和尾巴。有著一身细腻白皙的肌肤，再配上秀丽无比的五官。一头长发直达背部，带着少许天然鬈度的褐色秀发，搭配一双又大又圆，瞳仁色彩为亮丽的红茶色。", "enneagram": "6号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 62, "name": "古河渚", "en_name": "Furukawa Nagisa", "description": "电视动画《CLANNAD》中的女主角。小时候的一次意外后变得体弱多病，因此留级过两年。性格积极，有着复活演剧部的梦想，但由于缺乏自信，通常容易被周围的人们所忽视。", "enneagram": "9号", "mbti": "INFP", "disc": "S型"}
+{"rank": 63, "name": "稻叶姬子", "en_name": "Inaba Himeko", "description": "《心灵链环》中的女主角之一，于山星高校就学的女高中生。文化研究部副部长。对电脑感兴趣最初加入了电脑部，闹得与部长对立。自己建立情报处理部，人数不足。随后加入了文研部。", "enneagram": "6号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 64, "name": "堀京子", "en_name": "Hori Kyōko", "description": "《堀与宫村》中的女主角。 喜欢宫村伊澄，是宫村伊澄的妻子。受人欢迎的活泼优等生，是个才貌双全不分男女广受欢迎的万人迷。", "enneagram": "2号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 65, "name": "草薙素子", "en_name": "kusanagi motoko", "description": "《攻壳机动队》中的主角，公安九课领导人之一，攻壳机动队队长，具备正确的判断力与冷静敏捷的行动力，女性改造义体人。", "enneagram": "5号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 66, "name": "羽川翼", "en_name": "Hanekawa Tsubasa", "description": "《物语系列》中的主要人物，被猫魅惑的少女。阿良良木历的班长，品行端正、成绩优秀、性格认真、知识极其渊博，是“班长中的班长。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 67, "name": "艾斯德斯", "en_name": "Esdeath", "description": "《斩·赤红之瞳！》中的登场角色，和布德大将军齐名的超S战斗狂人，是整个帝国中最年轻且最强的将军，现为特殊警察组织“狩人”的领导者。", "enneagram": "8号", "mbti": "ENTJ", "disc": "D型"}
+{"rank": 68, "name": "大崎娜娜", "en_name": "Osaki Nana", "description": "《NANA》中的女主角之一，是PUNK乐队BLAST的美女主唱，非常有个性、拥有很高人气。敢爱敢恨、敢想敢做的性格让她备受大家喜爱。", "enneagram": "4号", "mbti": "ISFP", "disc": "S型"}
+{"rank": 69, "name": "阿库娅", "en_name": "Aqua", "description": "《为美好的世界献上祝福！》中的角色，引导死去的年轻人类的水之女神，被佐藤和真当做转生外挂强行带到了异世界。和真小队的一员。", "enneagram": "7号", "mbti": "ESFP", "disc": "I型"}
+{"rank": 70, "name": "加藤惠", "en_name": "Megumi Katou", "description": "《路人女主的养成方法》的女主角，现为私立丰之崎学校三年生，性格极其随和，非常好相处。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 71, "name": "楪祈", "en_name": "Yuzuriha Inori", "description": "《罪恶王冠》女主角。浅粉色头发深红色眼眸，有着天籁般的嗓音。对集来说是令人憧憬的存在，但是与她的相遇却大大改变了集的命运。", "enneagram": "9号", "mbti": "INFP", "disc": "S型"}
+{"rank": 72, "name": "萨莎·布劳斯", "en_name": "Sasha Braus", "description": "《进击的巨人》中的角色，出身猎户，有着野兽般的直觉，吃货一枚，曾经从长官的粮食库偷出肉并与同期生分享，是玛利亚之壁夺还战的调查兵团仅剩的9人之一，后加入新利威尔班。", "enneagram": "7号", "mbti": "ESFP", "disc": "I型"}
+{"rank": 73, "name": "两仪式", "en_name": "Ryougi Shiki", "description": "动画《空之境界》中的女主角，拥有直死之魔眼的少女，也是四大退魔家族之一两仪家的继承人。", "enneagram": "5号", "mbti": "ISTP", "disc": "C型"}
+{"rank": 74, "name": "友利奈绪", "en_name": "Tomori Nao", "description": "动画《Charlotte（夏洛特）》中的主角之一。乙坂有宇的同班同学，以一年级新生的身份担任着星之海学园的学生会会长。", "enneagram": "5号", "mbti": "INTP", "disc": "C型"}
+{"rank": 75, "name": "早坂爱", "en_name": "Hayasaka Ai", "description": "《辉夜大小姐想让我告白～天才们的恋爱头脑战～》中的角色。", "enneagram": "6号", "mbti": "INFJ", "disc": "C型"}
+{"rank": 76, "name": "钉崎野蔷薇", "en_name": "Kugisaki Nobara", "description": "漫画《咒术回战》中的角色，本作女主角，东京都立咒术高等专门学校一年生，虎杖悠仁和伏黑惠的同级生。", "enneagram": "8号", "mbti": "ESTJ", "disc": "D型"}
+{"rank": 77, "name": "古见硝子", "en_name": "Komi Shouko", "description": "《古见同学有交流障碍症》中的角色，也是本作的女主角。有交流障碍症，就读于私立伊旦高中，是学校里最受欢迎的女神，多才多艺。", "enneagram": "6号", "mbti": "INFJ", "disc": "C型"}
+{"rank": 78, "name": "中野五月", "en_name": "Nakano Itsuki", "description": "《五等分的新娘》中的女主角之一。中野家五胞胎中排行最末的五女，五胞胎之中和上杉家关系最好的人。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 79, "name": "本田透", "en_name": "Honda Tohru", "description": "《水果篮子》中的女主角。心地善良，勤劳自立，为人温柔，又有些呆憨，有着超乎常人的共情能力和同理心，是属于那种温馨治愈系的角色。", "enneagram": "9号", "mbti": "ESFJ", "disc": "S型"}
+{"rank": 80, "name": "朝田诗乃", "en_name": "Shino Asada (Sinon)", "description": "《刀剑神域》的角色，枪械与钢铁的MMO“Gun Gale Online”里的少女玩家。是一名使用大型狙击枪“黑卡蒂Ⅱ”的狙击手。现实世界里是一个人在东京都内生活的高一少女", "enneagram": "6号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 81, "name": "长门有希", "en_name": "Nagato Yuki", "description": "动画《凉宫春日的忧郁》中主要人物。理所当然成为文艺社社长的唯一社员，在春日占据文艺社教室时也跟着入团。其真实身份为资讯统合思念体所创造出来的对有机生命体接触用人形联系装置，目的为观察凉宫春日。", "enneagram": "5号", "mbti": "INTP", "disc": "C型"}
+{"rank": 82, "name": "由比滨结衣", "en_name": "Yuigahama Yui", "description": "《我的青春恋爱物语果然有问题。》中的角色，以团子头为特征，一看是个辣妹模样的女高中生。她是比企谷八幡的同班同学，同时也是侍奉部的社员。性格坦率又老实巴交，虽然有点傻，但沟通能力很强。", "enneagram": "2号", "mbti": "ESFJ", "disc": "I型"}
+{"rank": 83, "name": "千反田爱瑠", "en_name": "Chitanda Eru", "description": "《冰菓》中的第一女主角。个性认真，披肩黑发，外表清秀，说话全部都用敬语，是富农千反田家的千金小姐，但其特征是与整体印象不相符的大大的眼睛。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 84, "name": "栗山未来", "en_name": "Kuriyama Mirai", "description": "《境界的彼方》中的角色。高中一年级新生，戴着深蓝色缎带。拥有操纵血能力的异界士，但她拥有的这种能力被认为是异界士中的异端，因此被他人所敬而远之。", "enneagram": "6号", "mbti": "ISFP", "disc": "S型"}
+{"rank": 85, "name": "阿尼亚·福杰", "en_name": "Anya Forger", "description": "动画片《间谍×过家家》中的角色，某一组织实验中所诞生的能够读懂他人内心的超能力者。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 86, "name": "菲·瓦伦坦", "en_name": "Faye Valentine", "description": "动画《星际牛仔》及其衍生作品中的角色，原来是一名以诈骗和偷窃为生的美艳女郎，留着一头黑色短发，在一次赌场的犯罪中卷入了Bebop号的成员而入伙。性格上是个喜好钱财、豪气开放的女人，同时又魅力无穷。", "enneagram": "8号", "mbti": "ESTP", "disc": "D型"}
+{"rank": 87, "name": "黑木智子", "en_name": "Kuroki Tomoko", "description": "《我不受欢迎，怎么想都是你们的错!》中的角色，是一名高中一年级的女学生，常以带着撩乱长发，疲倦黑眼袋的模样见人，不擅长与人交涉，总是有很多较反面的想法。", "enneagram": "4号", "mbti": "INFP", "disc": "S型"}
+{"rank": 88, "name": "磷叶石", "en_name": "Phosphophyllite", "description": "《宝石之国》中的角色。虽是宝石们中的一员，但脆弱易碎，硬度仅有3.5。因此，磷叶石一直被当做可有可无的存在。直到刚满三百岁时，他被安排进行编辑博物志的工作，并由此开始不断前进。", "enneagram": "7号", "mbti": "ESFP", "disc": "I型"}
+{"rank": 89, "name": "小野寺小咲", "en_name": "Onodera Kosaki", "description": "《伪恋》中人物。初中就开始暗恋一条乐的女生，也是一条乐暗恋的对象，但因为各种原因无法心意相通。长相漂亮又温柔文静，有点笨拙和迟钝，很会为别人着想。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 90, "name": "柊筱娅", "en_name": "Shinoa Hiiragi", "description": "《终结的炽天使》中的角色，真昼的妹妹，由丰崎爱生等配音。日本帝鬼军大当家柊天利的次女。 一头紫色秀发，系着一个大蝴蝶结。和姐姐真昼从一出生就是人体实验的产物。", "enneagram": "9号", "mbti": "ENTP", "disc": "S型"}
+{"rank": 91, "name": "宫水三叶", "en_name": "Mitsuha Miyamizu", "description": "动画电影《你的名字。》及衍生作品的女主角，一名住在深山乡间小镇糸守镇的女高中生。", "enneagram": "9号", "mbti": "INFP", "disc": "S型"}
+{"rank": 92, "name": "露西·哈特菲利亚", "en_name": "Lucy Heartfilia", "description": "《妖精的尾巴》中的女主角，是魔导师公会妖精的尾巴的星灵魔导士。擅长吐槽，性格活泼开朗、非常重视伙伴和公会成员，在与同伴的冒险中最终成为一名十分优秀的星灵魔导士。", "enneagram": "2号", "mbti": "ENFJ", "disc": "I型"}
+{"rank": 93, "name": "八九寺真宵", "en_name": "Hachikuji Mayoi", "description": "动漫《化物语》、《倾物语》中的女主角，迷失如蜗牛的少女。外表是彬彬有礼、谦逊礼貌的10岁小学生，实则是在迷途中徘徊了11年的幽灵少女、怪异“蜗牛”的正体。双马尾辫和大号的登山包是她的标志。", "enneagram": "7号", "mbti": "ENFP", "disc": "I型"}
+{"rank": 94, "name": "鬼龙院皐月", "en_name": "Kiryuin Satsuki", "description": "动画《斩服少女》中的角色，本能字学园的学生会长，以武力和恐怖统治校园，手持无敌爱刀“缚斩”，身为流子之姐，第二位神衣穿著者，其神衣“纯洁”虽非她所适，却彰显家族威严与力量。", "enneagram": "1号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 95, "name": "见崎鸣", "en_name": "Misaki Mei", "description": "《Another》中的女主角，原姓“藤冈”，4岁时左眼中长了恶性肿瘤，后摘除了左眼。现在的左眼是母亲做的“玩偶之眼”，平时绑有眼罩，并可以看到正常人看不见的东西。", "enneagram": "4号", "mbti": "INFP", "disc": "S型"}
+{"rank": 96, "name": "朽木露琪亚", "en_name": "Kuchiki Rukia", "description": "日本漫画《死神》中的女主角，出身于南流魂街78区“戌吊”，生活艰难但心性坚强，善良重情义，品格也如梅般傲然，如阳光般温暖明媚，擅长鬼道，是尸魂界最美的斩魄刀袖白雪的持有者。", "enneagram": "1号", "mbti": "ISTJ", "disc": "C型"}
+{"rank": 97, "name": "夏娜", "en_name": "Shana", "description": "《灼眼的夏娜》中的女主角，从小就居住在“天道宫”，跟着威尔艾米娜·卡梅尔、还有（小白）梅利希姆，在天道宫中为成为完美的火雾战士而努力锻炼，文武双全的杀手。", "enneagram": "5号", "mbti": "INTJ", "disc": "C型"}
+{"rank": 98, "name": "鹿目圆", "en_name": "Kaname Madoka", "description": "《魔法少女小圆》中的角色，就读于市立见泷原中学二年级的一位普通初中生。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}
+{"rank": 99, "name": "尤娜", "en_name": "Yona", "description": "《晨曦公主》中的角色，自幼倍受保护的高华国公主，有着如同拂晓天空般的红发。在16岁生日当天，撞破青梅竹马苏芳杀死父王篡位的阴谋。在护卫白的掩护下逃出都城，一路躲避追杀。", "enneagram": "2号", "mbti": "ENFJ", "disc": "I型"}
+{"rank": 100, "name": "黑沼爽子", "en_name": "Kuronuma Sawako", "description": "《好想告诉你》中的女主角，阴气、超长黑发、在夏天也煞白的皮肤，与灵感少女以及令人恐惧的超阴气容貌正好相同。", "enneagram": "9号", "mbti": "ISFJ", "disc": "S型"}

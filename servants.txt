@@ -1,0 +1,302 @@
+[
+  {
+    "排名": 1,
+    "英文名": "Lamperouge, Lelouch",
+    "日文名": "ルルーシュ・ランペルージ",
+    "作品": "Code Geass"
+  },
+  {
+    "排名": 2,
+    "英文名": "Monkey D., Luffy",
+    "日文名": "モンキー・D・ルフィ",
+    "作品": "One Piece"
+  },
+  {
+    "排名": 3,
+    "英文名": "Levi",
+    "日文名": "リヴァイ",
+    "作品": "Shingeki no Kyojin"
+  },
+  {
+    "排名": 4,
+    "英文名": "Lawliet, L",
+    "日文名": "エル ローライト",
+    "作品": "Death Note"
+  },
+  {
+    "排名": 5,
+    "英文名": "Roronoa, Zoro",
+    "日文名": "ロロノア・ゾロ",
+    "作品": "One Piece"
+  },
+  {
+    "排名": 6,
+    "英文名": "Zoldyck, Killua",
+    "日文名": "キルア・ゾルディック",
+    "作品": "Hunter x Hunter"
+  },
+  {
+    "排名": 7,
+    "英文名": "Yagami, Light",
+    "日文名": "夜神 月",
+    "作品": "Death Note"
+  },
+  {
+    "排名": 8,
+    "英文名": "Okabe, Rintarou",
+    "日文名": "岡部 倫太郎",
+    "作品": "Steins;Gate"
+  },
+  {
+    "排名": 9,
+    "英文名": "Elric, Edward",
+    "日文名": "エドワード・エルリック",
+    "作品": "Fullmetal Alchemist"
+  },
+  {
+    "排名": 10,
+    "英文名": "Uzumaki, Naruto",
+    "日文名": "うずまき ナルト",
+    "作品": "Naruto"
+  },
+  {
+    "排名": 11,
+    "英文名": "Guts",
+    "日文名": "ガッツ",
+    "作品": "Berserk"
+  },
+  {
+    "排名": 12,
+    "英文名": "Sakata, Gintoki",
+    "日文名": "坂田 銀時",
+    "作品": "Gintama"
+  },
+  {
+    "排名": 13,
+    "英文名": "Yeager, Eren",
+    "日文名": "エレン・イェーガー",
+    "作品": "Shingeki no Kyojin"
+  },
+  {
+    "排名": 14,
+    "英文名": "Makise, Kurisu",
+    "日文名": "牧瀬 紅莉栖",
+    "作品": "Steins;Gate"
+  },
+  {
+    "排名": 15,
+    "英文名": "Uchiha, Itachi",
+    "日文名": "うちは イタチ",
+    "作品": "Naruto"
+  },
+  {
+    "排名": 16,
+    "英文名": "Gojou, Satoru",
+    "日文名": "五条 悟",
+    "作品": "Jujutsu Kaisen"
+  },
+  {
+    "排名": 17,
+    "英文名": "Ackerman, Mikasa",
+    "日文名": "ミカサ・アッカーマン",
+    "作品": "Shingeki no Kyojin"
+  },
+  {
+    "排名": 18,
+    "英文名": "Kaneki, Ken",
+    "日文名": "金木 研",
+    "作品": "Tokyo Ghoul"
+  },
+  {
+    "排名": 19,
+    "英文名": "Hikigaya, Hachiman",
+    "日文名": "比企谷 八幡",
+    "作品": "Yahari Ore no Seishun Love Comedy wa Machigatteiru"
+  },
+  {
+    "排名": 20,
+    "英文名": "Hatake, Kakashi",
+    "日文名": "はたけ カカシ",
+    "作品": "Naruto"
+  },
+  {
+    "排名": 21,
+    "英文名": "Spiegel, Spike",
+    "日文名": "スパイク・スピーゲル",
+    "作品": "Cowboy Bebop"
+  },
+  {
+    "排名": 22,
+    "英文名": "Saitama",
+    "日文名": "サイタマ",
+    "作品": "One Punch Man"
+  },
+  {
+    "排名": 23,
+    "英文名": "Rem",
+    "日文名": "レム",
+    "作品": "Re:Zero kara Hajimeru Isekai Seikatsu"
+  },
+  {
+    "排名": 24,
+    "英文名": "Joestar, Joseph",
+    "日文名": "ジョセフ・ジョースター",
+    "作品": "JoJo no Kimyou na Bouken"
+  },
+  {
+    "排名": 25,
+    "英文名": "Megumin",
+    "日文名": "めぐみん",
+    "作品": "Kono Subarashii Sekai ni Shukufuku wo"
+  },
+  {
+    "排名": 26,
+    "英文名": "Reigen, Arataka",
+    "日文名": "霊幻 新隆",
+    "作品": "Mob Psycho 100"
+  },
+  {
+    "排名": 27,
+    "英文名": "Senjougahara, Hitagi",
+    "日文名": "戦場ヶ原 ひたぎ",
+    "作品": "Bakemonogatari"
+  },
+  {
+    "排名": 28,
+    "英文名": "Kirigaya, Kazuto",
+    "日文名": "桐ヶ谷 和人",
+    "作品": "Sword Art Online"
+  },
+  {
+    "排名": 29,
+    "英文名": "Sakurajima, Mai",
+    "日文名": "桜島 麻衣",
+    "作品": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+  },
+  {
+    "排名": 30,
+    "英文名": "Yato",
+    "日文名": "夜ト",
+    "作品": "Noragami"
+  },
+  {
+    "排名": 31,
+    "英文名": "Mustang, Roy",
+    "日文名": "ロイ・マスタング",
+    "作品": "Fullmetal Alchemist"
+  },
+  {
+    "排名": 32,
+    "英文名": "Evergarden, Violet",
+    "日文名": "ヴァイオレット・エヴァーガーデン",
+    "作品": "Violet Evergarden"
+  },
+  {
+    "排名": 33,
+    "英文名": "Zero Two",
+    "日文名": "ゼロツー",
+    "作品": "Darling in the FranXX"
+  },
+  {
+    "排名": 34,
+    "英文名": "Kurosaki, Ichigo",
+    "日文名": "黒崎 一護",
+    "作品": "Bleach"
+  },
+  {
+    "排名": 35,
+    "英文名": "Ayanokouji, Kiyotaka",
+    "日文名": "綾小路 清隆",
+    "作品": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  },
+  {
+    "排名": 36,
+    "英文名": "Dazai, Osamu",
+    "日文名": "太宰 治",
+    "作品": "Bungou Stray Dogs"
+  },
+  {
+    "排名": 37,
+    "英文名": "Morow, Hisoka",
+    "日文名": "ヒソカ・モロウ",
+    "作品": "Hunter x Hunter"
+  },
+  {
+    "排名": 38,
+    "英文名": "Thorfinn",
+    "日文名": "トルフィン",
+    "作品": "Vinland Saga"
+  },
+  {
+    "排名": 39,
+    "英文名": "Kamina",
+    "日文名": "カミナ",
+    "作品": "Tengen Toppa Gurren Lagann"
+  },
+  {
+    "排名": 40,
+    "英文名": "Onizuka, Eikichi",
+    "日文名": "鬼塚 英吉",
+    "作品": "Great Teacher Onizuka"
+  },
+  {
+    "排名": 41,
+    "英文名": "Saber",
+    "日文名": "セイバー",
+    "作品": "Fate/stay night"
+  },
+  {
+    "排名": 42,
+    "英文名": "Oshino, Shinobu",
+    "日文名": "忍野 忍",
+    "作品": "Monogatari Series"
+  },
+  {
+    "排名": 43,
+    "英文名": "Sanji",
+    "日文名": "サンジ",
+    "作品": "One Piece"
+  },
+  {
+    "排名": 44,
+    "英文名": "Aisaka, Taiga",
+    "日文名": "逢坂 大河",
+    "作品": "Toradora"
+  },
+  {
+    "排名": 45,
+    "英文名": "Frieren",
+    "日文名": "フリーレン",
+    "作品": "Sousou no Frieren"
+  },
+  {
+    "排名": 46,
+    "英文名": "Souryuu, Asuka Langley",
+    "日文名": "惣流・アスカ・ラングレー",
+    "作品": "Shinseiki Evangelion"
+  },
+  {
+    "排名": 47,
+    "英文名": "Son, Gokuu",
+    "日文名": "孫 悟空",
+    "作品": "Dragon Ball"
+  },
+  {
+    "排名": 48,
+    "英文名": "Araragi, Koyomi",
+    "日文名": "阿良々木 暦",
+    "作品": "Bakemonogatari"
+  },
+  {
+    "排名": 49,
+    "英文名": "Uchiha, Sasuke",
+    "日文名": "うちは サスケ",
+    "作品": "Naruto"
+  },
+  {
+    "排名": 50,
+    "英文名": "Askeladd",
+    "日文名": "アシェラッド",
+    "作品": "Vinland Saga"
+  }
+]
